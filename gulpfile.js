@@ -40,7 +40,7 @@ gulp.task('uglifycss', ['clean'], function () {
 });
 
 gulp.task('copy', function (cb) {
-		return copy('index-producao.html', 'dist/', cb)
+		return copy('index.html', 'dist/', cb)
 });
 
 gulp.task('default', ['jshint', 'uglify', 'uglifycss', 'copy']);
