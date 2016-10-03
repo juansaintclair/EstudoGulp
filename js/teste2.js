@@ -1,0 +1,1 @@
+alert('teste2.js');

@@ -17,6 +17,17 @@
   },
   "homepage": "https://github.com/juansaintclair/EstudoGulp#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-jshint": "^2.0.1",
+    "gulp-uglify": "^2.0.0",
+  "jshint": "^2.9.3",
+    "gulp-concat": "2.6.0",
+    "event-stream": "3.3.4",
+    "gulp-copy": "0.0.2"
+  },
+  "dependencies": {
+    "gulp-uglifycss": "^1.0.6"
   }
 }
+
