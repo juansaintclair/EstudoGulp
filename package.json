@@ -21,7 +21,7 @@
     "gulp-clean": "^0.3.2",
     "gulp-jshint": "^2.0.1",
     "gulp-uglify": "^2.0.0",
-  "jshint": "^2.9.3",
+    "jshint": "^2.9.3",
     "gulp-concat": "2.6.0",
     "event-stream": "3.3.4",
     "gulp-copy": "0.0.2"
@@ -30,4 +30,3 @@
     "gulp-uglifycss": "^1.0.6"
   }
 }
-
